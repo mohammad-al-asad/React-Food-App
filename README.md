@@ -30,7 +30,7 @@ Please follow the below instructions to run this project in your machine:
    ```sh
    npm run dev
    ```
-8. Now open to the url
+8. Now open to url
     ```sh
      http://localhost:5173/
     ```
