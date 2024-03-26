@@ -5,11 +5,11 @@ Please follow the below instructions to run this project in your machine:
 
 1. Clone this repository
    ```sh
-   git clone https://github.com/mohammad-al-asad/react-food-app.git
+   git clone https://github.com/mohammad-al-asad/React-Food-App.git
    ```
 2. Go into cloned directory
    ```sh
-   cd "react-food-app"
+   cd "React-Food-App"
    ```
 3. Go into server
    ```sh
@@ -23,7 +23,7 @@ Please follow the below instructions to run this project in your machine:
 
 6. Go into app
    ```sh
-   cd "react-food-app"
+   cd "React-Food-App"
    cd "app"
    ```
 7. Run the app
